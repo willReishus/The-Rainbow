@@ -6,7 +6,7 @@ Blue
 Green
 Unicorn
 Yellow
+black
 Red
 these are the colors of the rainbow
 And the unicorn
-Pony
